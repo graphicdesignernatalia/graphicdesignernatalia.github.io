@@ -1,0 +1,16 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+
+}
+
+hr{
+    opacity: 10%;
+}
+
+
+.nacional{
+    color:rgb(255, 101, 49) ;
+}
